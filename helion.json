@@ -1,0 +1,23 @@
+{
+    "name": "Helion",
+    "selectionBackground": "#A8B6C0",
+    "foreground": "#A8B6C0",
+    "background": "#1A2A38",
+    "cursorColor": "#A8B6C0",
+    "brightBlack": "#4E7A98",
+    "brightBlue": "#A8B6C0",
+    "brightCyan": "#A8B6C0",
+    "brightGreen": "#4E7A98",
+    "brightPurple": "#B163FF",
+    "brightRed": "#E06E41",
+    "brightWhite": "#E4E6E0",
+    "brightYellow": "#4E7A98",
+    "black": "#40576B",
+    "blue": "#40ABE5",
+    "cyan": "#3FA89D",
+    "green": "#68A82C",
+    "purple": "#D76AF1",
+    "red": "#F6606D",
+    "white": "#D8DAD3",
+    "yellow": "#C19C00"
+}
